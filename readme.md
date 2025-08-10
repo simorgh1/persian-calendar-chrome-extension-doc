@@ -1,6 +1,3 @@
-
-> For documentation in Persian, see the [Persian README](readme-fa.md)
-
 # Persian Jalali Calendar Chrome Extension
 
 > For documentation in Persian, see the [Persian README](readme-fa.md)
@@ -17,12 +14,12 @@ A simple JavaScript-based Chrome/Edge extension that provides a Jalali (Persian)
 - **Month View**: Shows current Jalali month
 - **Navigation**: Easy navigation between months with next/previous buttons
 - **Multi-Calendar Conversion**: Convert dates between:
-			- Jalali (Persian) Calendar
-			- Gregorian Calendar
-			- Islamic Calendar
+- Jalali (Persian) Calendar
+- Gregorian Calendar
+- Islamic Calendar
 - **Additional Information**:
-			- Chinese zodiac for the selected years
-			- Days difference calculation for past/future dates
+- Chinese zodiac for the selected years
+- Days difference calculation for past/future dates
 - **Localization**: Available in English, French, German, Italian, Norwegian, Persian, Russian, Spanish, Swedish, Arabic, and Turkish, which can be configured in the Options.
 - **Date Range**: Supports Jalali years from 1200 to 1500
 
@@ -36,9 +33,9 @@ A simple JavaScript-based Chrome/Edge extension that provides a Jalali (Persian)
 
 Select any date in one calendar system to see its equivalent in:
 
-				- Jalali Calendar
-				- Gregorian Calendar
-				- Islamic Calendar
+- Jalali Calendar
+- Gregorian Calendar
+- Islamic Calendar
 
 ## Installation
 
